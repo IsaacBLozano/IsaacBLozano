@@ -4,7 +4,7 @@
 
 Me chamo Isaac Lozano, sou de São Paulo, SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, com conclusão prevista para 2027. Sou apaixonado por tecnologia e atuo como Suporte Técnico na Palace Certificação Digital, onde trabalho com atendimento ao cliente, instalação e configuração de certificados digitais e relacionamento com parceiros. Atualmente estou aprendendo C, front-end e modelagem de banco de dados, aprofundando meus conhecimentos em desenvolvimento de sistemas.
 
-- 🔭 Buscando oportunidades como desenvolvedor júnior / estágio em tecnologia
+
 - 🌱 Aprendendo C, front-end e modelagem de banco de dados
 - 💬 Fale comigo sobre suporte técnico, automação com Python ou certificação digital
 
