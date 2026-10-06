@@ -106,6 +106,31 @@ Me chamo Isaac Lozano, sou de São Paulo, SP. Atualmente, estou cursando Anális
 
 ---
 
+### 📚 Estudos em C
+
+Exercícios da disciplina de Algoritmos e Pensamento Computacional (UNICSUL).
+
+| Aula | Tema | Pasta |
+|------|------|-------|
+| 08 | Estruturas de dados básicas: vetores e matrizes | [`aula08/`](aula08) |
+
+<details>
+<summary><b>Aula 08 - atividades</b></summary>
+
+| Arquivo | O que faz |
+|---------|-----------|
+| [`atividade01.c`](aula08/atividade01.c) | Lê 4 salários num vetor e exibe na mesma ordem |
+| [`atividade02.c`](aula08/atividade02.c) | Lê 8 valores, calcula a média e conta os acima dela |
+| [`atividade03.c`](aula08/atividade03.c) | 6 salários: média, maior salário e quantos estão abaixo da média |
+| [`atividade04.c`](aula08/atividade04.c) | Matriz 3x4 de vendas: total por produto e total geral |
+| [`atividade05.c`](aula08/atividade05.c) | Matriz 3x4 de notas: média de cada aluno e maior média |
+| [`atividade06.c`](aula08/atividade06.c) | 7 temperaturas: média, maior, menor e dias acima da média |
+| [`desafio.c`](aula08/desafio.c) | Vendas da cafeteria usando vetores com nomes de produtos e dias |
+
+</details>
+
+---
+
 ### 📊 Estatísticas
 
 <p>
