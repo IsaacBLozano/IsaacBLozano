@@ -10,12 +10,12 @@ int main()
     int vendas[PRODUTOS][DIAS];
 
     // um vetor com os nomes dos produtos e outro com os dias da semana
-    const char *produtos[PRODUTOS] = {"cafés", "coxinhas", "bolos"};
+    const char *produtos[PRODUTOS] = {"cafés", "bolos", "coxinhas"};
     const char *dias_semana[DIAS] = {"seg", "ter", "qua", "qui"};
 
     for (i=0; i<PRODUTOS; i++){
         for (j=0; j<DIAS; j++){
-            printf("Digite a qte de %s vendidos na %s: ", produtos[i], dias_semana[j]);
+            printf("Digite a qte vendida de %s na %s: ", produtos[i], dias_semana[j]);
             scanf("%d", &vendas[i][j]);
         }
     }
