@@ -9,7 +9,6 @@ int main()
     int i, j, total_produto, total_geral=0;
     int vendas[PRODUTOS][DIAS];
 
-    // um vetor com os nomes dos produtos e outro com os dias da semana
     const char *produtos[PRODUTOS] = {"cafés", "bolos", "coxinhas"};
     const char *dias_semana[DIAS] = {"seg", "ter", "qua", "qui"};
 

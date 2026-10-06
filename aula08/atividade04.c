@@ -9,7 +9,6 @@ int main()
     int i, j, total_produto, total_geral=0;
     int vendas[LIN][COL];
 
-    // laço externo: produtos (linhas) / laço interno: dias (colunas)
     for (i=0; i<LIN; i++){
         for (j=0; j<COL; j++){
             printf("Digite a qte do %dº produto no %dº dia: ", (i+1), (j+1));

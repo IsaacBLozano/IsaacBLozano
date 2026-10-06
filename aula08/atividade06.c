@@ -15,13 +15,11 @@ int main()
         scanf("%f", &temperaturas[i]);
     }
 
-    // acumulação
     for (i=0; i<TAM; i++){
         soma += temperaturas[i];
     }
     media = soma/TAM;
 
-    // maior e menor começam pelo primeiro elemento do vetor
     maior = temperaturas[0];
     menor = temperaturas[0];
     for (i=1; i<TAM; i++){
@@ -31,7 +29,6 @@ int main()
             menor = temperaturas[i];
     }
 
-    // contagem
     for (i=0; i<TAM; i++){
         if (temperaturas[i] > media)
             acima_media++;

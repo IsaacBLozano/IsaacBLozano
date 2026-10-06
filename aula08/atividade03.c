@@ -14,20 +14,17 @@ int main()
         scanf("%f", &salarios[i]);
     }
 
-    // acumulação
     for (i=0; i<TAM; i++){
         soma += salarios[i];
     }
     media = soma/TAM;
 
-    // maior valor: começa pelo primeiro elemento do vetor (posição 0)
     maior = salarios[0];
     for (i=1; i<TAM; i++){
         if (salarios[i] > maior)
             maior = salarios[i];
     }
 
-    // contagem
     for (i=0; i<TAM; i++){
         if (salarios[i] < media)
             abaixo_media++;

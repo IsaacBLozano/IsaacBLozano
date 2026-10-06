@@ -14,13 +14,11 @@ int main()
         scanf("%f", &valores[i]);
     }
 
-    // acumulação
     for (i=0; i<TAM; i++){
         soma += valores[i];
     }
     media = soma/TAM;
 
-    // contagem
     for (i=0; i<TAM; i++){
         if (valores[i] > media)
             acima_media++;
